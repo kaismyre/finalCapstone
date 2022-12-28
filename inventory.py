@@ -83,7 +83,7 @@ def highest_qty():
         shoe_qty.append(shoe.quantity)
     for shoe in shoe_list:
         if shoe.quantity == max(shoe_qty):
-            print(f"{shoe.product} is ON FOR SALEt!")
+            print(f"{shoe.product} is ON FOR SALE!")
    
 # Main Function to start the software 
 def main():

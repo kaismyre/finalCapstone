@@ -4,9 +4,9 @@
 
 ### you can copy this project typing git clone 'URL' into your terminal or command prompt   
 
-###  /Users/alexandrucozma/Desktop/Screenshot 2022-12-28 at 13.54.10.png
+###  ![Screenshot 2022-12-28 at 13 54 10](https://user-images.githubusercontent.com/61679674/209830087-8d955880-d1a6-4897-ac47-f371932368e9.png)
 
-### /Users/alexandrucozma/Desktop/Screenshot 2022-12-28 at 13.55.43.png
+### ![Screenshot 2022-12-28 at 13 54 10](https://user-images.githubusercontent.com/61679674/209830132-f9ef689c-1bd9-4824-bedc-54af789075f1.png)
 
 ### email alexandrugcozma@gmail.com
 ### Software developed by kaismyre
